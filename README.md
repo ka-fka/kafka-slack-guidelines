@@ -1,4 +1,4 @@
-#Kafka Slack Guidelines
+# Kafka Slack Guidelines
 
 We use Slack as our company-wide communication tool in Mercari. This purpose of these guidelines is to ensure information about a  project or team communication is done smoothly and efficiently.
 
